@@ -1,0 +1,11 @@
+{
+   "name":"CHILDREN NFT #1",
+   "image":"https://nft.savethechildrendao.org",
+   "description":"CHILDREN NFT",
+   "attributes":[
+      {
+         "trait_type":"gender",
+         "value":"male"
+      },
+   ]
+}
