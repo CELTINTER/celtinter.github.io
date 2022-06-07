@@ -1,17 +1,17 @@
 {
-  "main.css": "/static/css/main.518f30a9.chunk.css",
-  "main.js": "/static/js/main.c4bf04f0.chunk.js",
-  "main.js.map": "/static/js/main.c4bf04f0.chunk.js.map",
+  "main.css": "/static/css/main.dda80b59.chunk.css",
+  "main.js": "/static/js/main.bedc0cdd.chunk.js",
+  "main.js.map": "/static/js/main.bedc0cdd.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.aca7b423.js",
   "runtime~main.js.map": "/static/js/runtime~main.aca7b423.js.map",
   "static/css/2.6593a3e4.chunk.css": "/static/css/2.6593a3e4.chunk.css",
   "static/js/2.eafa4065.chunk.js": "/static/js/2.eafa4065.chunk.js",
   "static/js/2.eafa4065.chunk.js.map": "/static/js/2.eafa4065.chunk.js.map",
   "index.html": "/index.html",
-  "precache-manifest.2e383509f24ba8575570ee726cde5db3.js": "/precache-manifest.2e383509f24ba8575570ee726cde5db3.js",
+  "precache-manifest.99991ba62924d77840f104e205cc69b7.js": "/precache-manifest.99991ba62924d77840f104e205cc69b7.js",
   "service-worker.js": "/service-worker.js",
   "static/css/2.6593a3e4.chunk.css.map": "/static/css/2.6593a3e4.chunk.css.map",
-  "static/css/main.518f30a9.chunk.css.map": "/static/css/main.518f30a9.chunk.css.map",
+  "static/css/main.dda80b59.chunk.css.map": "/static/css/main.dda80b59.chunk.css.map",
   "static/media/Box.scss": "/static/media/boxBgMobile.59b679e5.png",
   "static/media/App.scss": "/static/media/modalBg.9e1629d0.png"
 }
